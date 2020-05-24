@@ -85,17 +85,17 @@ https://github.com/mrnninster/kaggle-Wheat_head.git
 </p>
 
 
-![](ScreenShot/installing_keras.png)
+![](ScreenShots/installing_keras.png)
 
 <p>
 	Navigate into the keras-retinanet folder and pip install all, then run setup.py using python3 to build.
 </p>
 
 
-![](ScreenShot/installing_dependencies_retinanet.png)
+![](ScreenShots/installing_dependencies_retinanet.png)
 
 
-![](ScreenShot/installing_tensorflow_gpu.png)
+![](ScreenShots/installing_tensorflow_gpu.png)
 
 
 <p>
@@ -103,10 +103,10 @@ https://github.com/mrnninster/kaggle-Wheat_head.git
 </p>
 
 
-![](ScreenShot/imports.png)
+![](ScreenShots/imports.png)
 
 
-![](ScreenShot/imports2.png)
+![](ScreenShots/imports2.png)
 
 
 <p>
@@ -114,24 +114,24 @@ https://github.com/mrnninster/kaggle-Wheat_head.git
 </p>
 
 
-![](ScreenShot/dataset_annotations.png)
+![](ScreenShots/dataset_annotations.png)
 
 <p>
 	Here is the boundary box function created to test the dataset. Modify to fit your use.
 </p>
 
 
-![](ScreenShot/bbox_function.png)
+![](ScreenShots/bbox_function.png)
 
 <p>
 	Here i am simply generatin the test and train dataset. After this i generated the annotations file and the classes file which will b used for training the neural network.
 </p>
 
 
-![](ScreenShot/train_test.png)
+![](ScreenShots/train_test.png)
 
 
-![](ScreenShot/annotation_and_classes.png)
+![](ScreenShots/annotation_and_classes.png)
 
 
 <h3>
@@ -143,10 +143,10 @@ https://github.com/mrnninster/kaggle-Wheat_head.git
 </p>
 
 
-![](ScreenShot/pretrained_model_and_kera_resnet.png)
+![](ScreenShots/pretrained_model_and_kera_resnet.png)
 
 
-![](ScreenShot/starting_training.png)
+![](ScreenShots/starting_training.png)
 
 
 <h2>
@@ -159,10 +159,10 @@ https://github.com/mrnninster/kaggle-Wheat_head.git
 </p>
 
 
-![](ScreenShot/testing.png)
+![](ScreenShots/testing.png)
 
 
-![](ScreenShot/detection_box_and_counter.png)
+![](ScreenShots/detection_box_and_counter.png)
 
 
-![](ScreenShot/show_detection.png)
+![](ScreenShots/show_detection.png)
