@@ -47,7 +47,7 @@ You will need the following to run the neural net script for infrence
 
 ### Clone the repository 
 ```
-https://github.com/mrnninster/painter.gitt
+https://github.com/mrnninster/kaggle-Wheat_head.git
 ```
 
 ## Creating your model using google collab
